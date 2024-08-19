@@ -1,0 +1,6 @@
+# Ignore a specific file
+/etc/ssl/private/ssl-cert-snakeoil.key
+
+# Ignore specific vulnerabilities
+CVE-2023-12345
+CVE-2024-67890
