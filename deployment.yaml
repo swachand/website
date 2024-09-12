@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx-container
-        image: swach/project2
+        image: swach/project2:stable
         ports:
         - containerPort: 80
